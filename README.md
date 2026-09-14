@@ -1,5 +1,5 @@
 # Analysis-of-the-supplementary-health-sector
-A study on the supply in the supplementary health sector. (My first project in R and forecasting models)
+A study on the supply in the supplementary health sector.
 
 This study aims to analyze the supply of the supplementary health sector through a statistical regression model. First, the number of sessions per year was forecasted by specialty, and subsequently for the entire sector. Finally, the Total Addressable Market (TAM) was calculated using a bottom-up approach.
 
